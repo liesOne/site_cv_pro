@@ -1,0 +1,32 @@
+@font-face {
+    font-family: "BodoniModa";
+    src: url("Bodoni_Moda/BodoniModa-Italic-VariableFont_opsz,wght.ttf") format('truetype')
+}
+
+* {
+    background-color: rgb(34, 34, 34);
+    color: whitesmoke;
+    font-family: BodoniModa, Arial, Helvetica, sans-serif;
+}
+
+header {
+    font-family: BodoniModa, Arial, Helvetica, sans-serif;
+    padding-bottom: 20px;
+}
+
+header h1 {
+    margin-bottom: 10px;
+    padding-bottom: 1px;
+}
+
+.mon_nom {
+    font-size: 60px;
+    font-weight: bold;
+}
+
+.mon_metier {
+    font-size: 40px;
+}
+
+
+
